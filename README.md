@@ -1,5 +1,3 @@
-welcome to: 104 116 116 112 115 58 47 47 103 105 116 104 117 98 46 99 111 109 47 108 97 119 108 111 103 105 120 47 100 101 118 95 116 101 115 116
-
 Developer Questions
 Instructions:
 We would like this process to be interactive. We will share google doc as your answer sheet (if you have gmail account) or note taking but we would like to hear your answers from you!
